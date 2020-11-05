@@ -1,0 +1,11 @@
+entries:
+        - title: Contact
+          url: about
+          entries:
+                  - title: email to swalla24 [at] uic [dot] edu
+                    url: false
+                  - title: Check out my Personal blog
+                    url: https://samueltwallace.github.io
+        - title: CV (Coming soon!)
+          url: assets/WallaceCV.pdf
+        - title: Papers (None yet!)

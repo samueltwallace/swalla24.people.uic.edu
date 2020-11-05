@@ -1,18 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an applied math first year student at [University Illinois at Chicago](mscs.uic.edu). I did my undergrad in math and physics at [University of Florida](math.ufl.edu). I like mechanics of all sorts (classical, statistical, quantum) and like working on problems related to physics or engineering.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can email me at the email on the main page. I also have a [GitHub](github.com/samueltwallace).
