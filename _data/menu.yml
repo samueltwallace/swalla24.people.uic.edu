@@ -9,3 +9,7 @@ entries:
         - title: CV (Coming soon!)
           url: assets/WallaceCV.pdf
         - title: Papers (None yet!)
+          url: false
+          entries:
+                  - title: Nothing here :(
+                    url: false
