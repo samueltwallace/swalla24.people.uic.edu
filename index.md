@@ -6,7 +6,7 @@ layout: home
 ---
 Hello and Welcome!
 
-![It's me!](/picsandgifs/glass_headshot.jpg)
+![It's me!](/picsandgifs/glass_headshot.JPG)
 
 This is the professional homepage of applied math student Sam Wallace.
 
