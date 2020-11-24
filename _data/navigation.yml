@@ -3,3 +3,5 @@ main:
           url: /about/
         - title: "CV"
           url: /WallaceCV.pdf
+        - title: "Other Links"
+          url : /links/
