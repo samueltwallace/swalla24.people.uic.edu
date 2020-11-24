@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: About
 permalink: /about/
 ---
+
+![Wave Equation Simulation](/picsandgifs/p20.gif)
 
 I am an applied math first year student at [University Illinois at Chicago](https://mscs.uic.edu). I did my undergrad in [math](https://math.ufl.edu) and [physics](https://www.phys.ufl.edu) at University Of Florida. I like mechanics of all sorts (classical, statistical, quantum) and like working on problems related to physics or engineering, often involving differential equations. I also like doing some coding, so I like implementing code that helps gives answers to these problems.
 
